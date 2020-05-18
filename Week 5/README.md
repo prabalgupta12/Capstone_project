@@ -18,4 +18,4 @@ In this week, you will continue working on your capstone project. Please remembe
 
 > 1. Report: http://bit.ly/31RseTc
 > 2. Notebook: http://bit.ly/2ORu9lj
-> 3. Blogpost: http://bit.ly/2Sm4ALm
+> 3. Blogpost: https://prabalgupta12.blogspot.com/2020/05/capstone-project-battle-of.html
